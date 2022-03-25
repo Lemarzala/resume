@@ -1,0 +1,32 @@
+h1 {
+  font-size: 35px;
+  color: #000;
+}
+
+.profile {
+  line-height: 1.5;
+}
+
+.all {
+  color: #000;
+}
+h2 {
+  font-size: 27px;
+  font-style: italic;
+}
+
+h4 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+  text-align: right;
+}
+.line,
+footer {
+  line-height: 0.5px;
+}
+h1,
+.line {
+  line-height: 3px;
+}
