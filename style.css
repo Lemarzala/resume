@@ -1,0 +1,32 @@
+.wow {
+  width: 100px;
+}
+
+.center {
+  text-align: center;
+}
+
+.job-section {
+  margin-bottom: 1rem;
+}
+
+.item {
+  margin-bottom: 2rem;
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: 108px 42px;
+}
+
+/* .year {
+  float: right;
+} */
+.bordercolor {
+  border: 1px solid red;
+}
+.css-flex {
+  display: flex;
+  flex-direction: column;
+}
+.css-grid {
+  border: 1px solid red;
+}
